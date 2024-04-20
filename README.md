@@ -1,6 +1,7 @@
 ### Hi there 
 
 🔭 I’m currently working on Semi-Structured RAG with RERANKER
+
 🌱 I’m currently learning about LLM and Computer vision and different application of both
 <!--
 **Chackopii/chackopii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
