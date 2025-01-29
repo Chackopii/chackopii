@@ -7,16 +7,14 @@ eCommerce Web Application: Designed and developed a responsive eCommerce platfor
 
 Q&A RAG Chatbot: Created an intelligent Retrieval-Augmented Generation (RAG) chatbot with conversation history, capable of extracting tables and text from PDFs. This project highlights my skills in NLP and document processing.
 
-Additional Projects: My GitHub features a variety of projects, including data analysis tools, automation scripts, and web development experiments.
-
 Technologies I Work With:
 Languages: Python, JavaScript, HTML, CSS
 
-Frameworks: Django, Bootstrap
+Frameworks: Django, Bootstrap,Langchain,Lamaindex
 
-Libraries: Hugging Face, spaCy, Pandas, NumPy
+Libraries: Hugging Face,React
 
-Databases: SQLite, PostgreSQL
+Databases: SQLite, Mysql
 
 I’m always excited to learn new technologies and collaborate on innovative projects. If you’re interested in connecting or working together, feel free to reach out!
 
