@@ -1,6 +1,26 @@
 ### Hi there 
 
-🔭 I’m currently working on Semi-Structured RAG with RERANKER
+Hello! I'm a dedicated developer with a passion for creating practical and innovative solutions. My projects showcase my expertise in web development, machine learning, and data processing, with a focus on building tools that solve real-world problems.
+
+Highlights of My Work:
+eCommerce Web Application: Designed and developed a responsive eCommerce platform using Django, HTML, CSS, and Bootstrap. Implemented robust database management for products, users, and orders to deliver a seamless shopping experience.
+
+Q&A RAG Chatbot: Created an intelligent Retrieval-Augmented Generation (RAG) chatbot with conversation history, capable of extracting tables and text from PDFs. This project highlights my skills in NLP and document processing.
+
+Additional Projects: My GitHub features a variety of projects, including data analysis tools, automation scripts, and web development experiments.
+
+Technologies I Work With:
+Languages: Python, JavaScript, HTML, CSS
+
+Frameworks: Django, Bootstrap
+
+Libraries: Hugging Face, spaCy, Pandas, NumPy
+
+Databases: SQLite, PostgreSQL
+
+I’m always excited to learn new technologies and collaborate on innovative projects. If you’re interested in connecting or working together, feel free to reach out!
+
+<!--🔭 I’m currently working on Semi-Structured RAG with RERANKER
 
 🌱 I’m currently learning about LLM and Computer vision and different application of both
 <!--
