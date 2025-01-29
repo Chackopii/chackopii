@@ -4,18 +4,21 @@ Hello! I'm a dedicated developer with a passion for creating practical and innov
 
 ### Highlights of My Work:
 
-#### eCommerce Web Application: ##### Designed and developed a responsive eCommerce platform using Django, HTML, CSS, and Bootstrap. Implemented robust database management for products, users, and orders to deliver a seamless shopping experience.
+#### eCommerce Web Application: Designed and developed a responsive eCommerce platform using Django, HTML, CSS, and Bootstrap. Implemented robust database management for products, users, and orders to deliver a seamless shopping experience.
 
-Q&A RAG Chatbot: Created an intelligent Retrieval-Augmented Generation (RAG) chatbot with conversation history, capable of extracting tables and text from PDFs. This project highlights my skills in NLP and document processing.
+#### Q&A RAG Chatbot: Created an intelligent Retrieval-Augmented Generation (RAG) chatbot with conversation history, capable of extracting tables and text from PDFs. This project highlights my skills in NLP and document processing.
 
-Technologies I Work With:
+### Technologies I Work With:
 Languages: Python, JavaScript, HTML, CSS
 
-Frameworks: Django, Bootstrap,Langchain,Lamaindex
+### Frameworks: 
+Django, Bootstrap,Langchain,Lamaindex
 
-Libraries: Hugging Face,React
+### Libraries: 
+Hugging Face,React
 
-Databases: SQLite, Mysql
+### Databases:
+SQLite, Mysql
 
 I’m always excited to learn new technologies and collaborate on innovative projects. If you’re interested in connecting or working together, feel free to reach out!
 
