@@ -1,6 +1,6 @@
-### Hi there 
+### Hello!
 
-Hello! I'm a dedicated developer with a passion for creating practical and innovative solutions. My projects showcase my expertise in web development, machine learning, and data processing, with a focus on building tools that solve real-world problems.
+#### I'm a dedicated developer with a passion for creating practical and innovative solutions. My projects showcase my expertise in web development, machine learning, and data processing, with a focus on building tools that solve real-world problems.
 
 ### Highlights of My Work:
 
