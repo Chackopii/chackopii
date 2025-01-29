@@ -2,9 +2,9 @@
 
 Hello! I'm a dedicated developer with a passion for creating practical and innovative solutions. My projects showcase my expertise in web development, machine learning, and data processing, with a focus on building tools that solve real-world problems.
 
-# Highlights of My Work:
+### Highlights of My Work:
 
-# eCommerce Web Application:
+#### eCommerce Web Application:
 Designed and developed a responsive eCommerce platform using Django, HTML, CSS, and Bootstrap. Implemented robust database management for products, users, and orders to deliver a seamless shopping experience.
 
 Q&A RAG Chatbot: Created an intelligent Retrieval-Augmented Generation (RAG) chatbot with conversation history, capable of extracting tables and text from PDFs. This project highlights my skills in NLP and document processing.
